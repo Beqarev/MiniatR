@@ -1,0 +1,45 @@
+# Build artifacts
+bin/
+obj/
+out/
+
+# Build configurations
+Debug/
+Release/
+x64/
+x86/
+
+# IDE and tooling
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.code-workspace
+
+# Testing and analysis
+TestResults/
+*.coverage
+*.coveragexml
+
+# Packages
+*.nupkg
+*.snupkg
+packages/
+
+# Logs and caches
+*.cache
+*.log
+*.tmp
+
+# Database files
+*.dbmdl
+
+# Environment files
+.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
